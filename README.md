@@ -1,7 +1,4 @@
 # hello-world
-Asparagus is gross
-
-
-
-
+Asparagus is flavorful.
 Cruciferous vegetables are yummy?
+The end
