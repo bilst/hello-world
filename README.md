@@ -1,2 +1,2 @@
 # hello-world
-Humorless test repo
+Asparagus is yummy
